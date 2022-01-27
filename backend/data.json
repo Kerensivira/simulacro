@@ -1,0 +1,27 @@
+{
+
+    "Dulces-de-Ana":[
+        {
+            "id": 1,
+            "product": "Producto A",
+            "imagen": "https://res.cloudinary.com/alexa01020304/image/upload/v1643239447/5b5bf6b4287eb34bd8cb46324566c223_s94cwd.jpg",
+            "precio": 100
+        }
+        ,
+        {
+            "id": 2,
+            "product": "Producto b",
+            "imagen": "https://res.cloudinary.com/alexa01020304/image/upload/v1643239447/5b5bf6b4287eb34bd8cb46324566c223_s94cwd.jpg",
+            "precio": 100
+        }
+        ,
+        {
+            "id": 3,
+            "product": "Producto C",
+            "imagen": "https://res.cloudinary.com/alexa01020304/image/upload/v1643239447/5b5bf6b4287eb34bd8cb46324566c223_s94cwd.jpg",
+            "precio": 100
+        }
+        
+    ]
+
+}
